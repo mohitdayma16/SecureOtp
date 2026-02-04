@@ -122,7 +122,7 @@ No additional configuration is needed.
 
 ## Demo Video
 **Link:**  
-https://drive.google.com/file/d/1LNdoMCA0sfFKMpIyNPkCX4vvizcZhKCV/view?usp=sharing
+https://drive.google.com/file/d/1gTtQthpFmIQL-v-I95ZGDfxosD7oBClj/view?usp=sharing
 
 The video demonstrates:
 - OTP generation and validation
