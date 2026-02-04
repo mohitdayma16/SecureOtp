@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432520982254",
+    "project_id": "ot-82a41",
+    "storage_bucket": "ot-82a41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432520982254:android:ab3ebbd80682963c8a4dff",
+        "android_client_info": {
+          "package_name": "com.example.secureotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLr7K8SJsjRoiyEdLWfjqKAfUHV_BAxIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
